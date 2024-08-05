@@ -1,0 +1,8 @@
+﻿  DataStructuresFinalAssignmentAdelie.cpp
+C:\Users\joshu\source\repos\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie.cpp(26,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie.cpp(27,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie.cpp(69,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie.cpp(80,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie.cpp(90,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie\DataStructuresFinalAssignmentAdelie.cpp(101,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DataStructuresFinalAssignmentAdelie.vcxproj -> C:\Users\joshu\source\repos\DataStructuresFinalAssignmentAdelie\x64\Debug\DataStructuresFinalAssignmentAdelie.exe
